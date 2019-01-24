@@ -17,4 +17,4 @@ The dataset is divided into five training batches and one test batch, each with 
 Once the cell is ran, the program will ask for an image path. feed in a test image or an image that you downloaded from the internet.
 
 3. Trained_model.h5 - the trained model. place in same directory as part-2. This is the pre-trained model. 
-
+ 
